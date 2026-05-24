@@ -1,0 +1,25 @@
+//Computer Science By Harvard University:
+cs50x : https://cs50.harvard.edu/certificates/a99e28e4-0726-4212-9494-7bc3410fd7e0
+
+//University of London : Computer Science :: by Coursera
+computer science : Introduction to computer science: https://coursera.org/verify/PWXUGZQ7FXX4
+Computer Science : How Computer Works: 
+
+
+//Google DATA ANALYTICS COURSE:: BY COURSERA
+Foundations: Data, Data, Everywhere: https://coursera.org/share/cfd017a248bf68fa9483d88d54261ea5
+Ask Questions to Make Data-Driven Decisions: https://coursera.org/share/2f9cfe65817564984f9fd5ac2a9a2d4e
+Analyze Data to Answer Questions: https://coursera.org/share/d0861b420ca8c9c1ee958c9e30ee9514
+Prepare data for exploration: https://coursera.org/share/03da92c1b543c5821749f02db7ed5a62
+Process data from dirty to clean: https://coursera.org/share/059a73cd685d0d78cf75ed2875fbbb1e
+
+//Github link:https://github.com/yaseenibnkhan
+
+//Projects
+WeatherApp: https://yaseenibnkhan.github.io/WeatherApp
+Currency Converter App: https://yaseenibnkhan.github.io/Currency-Converter
+Netflix clone:https://yaseenibnkhan.github.io/Netflix-Clone/
+Amazon Shopping Site Clone: https://yaseenibnkhan.github.io/Amazon/
+Task ToDo Webapp: https://todo-webapp-brown.vercel.app/
+Tic_Tac_Teo Game: https://yaseenibnkhan.github.io/tictactoe-game/
+Cheerup: https://yaseenibnkhan.github.io/Cheerup
